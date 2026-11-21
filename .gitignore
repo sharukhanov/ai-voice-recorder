@@ -13,3 +13,4 @@ models/
 .env
 meetings/
 captures/wav/
+captures/settings/
