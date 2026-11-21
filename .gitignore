@@ -3,3 +3,5 @@ __pycache__/
 *.apk
 *.xapk
 decompiled/
+captures/scan.txt
+captures/dump_log.txt

@@ -1,0 +1,13 @@
+# GATT dump 127825C6-D4DC-DE94-6F2F-99E653A6A6F8  2026-11-21T17:13:49
+
+[Service] 0011200a-2233-4455-6677-8899dfdedddc  (Unknown)
+  [Char] 0011201a-2233-4455-6677-8899dfdedddc  handle=9  props=notify  (Unknown)
+    [Desc] 00002902-0000-1000-8000-00805f9b34fb  handle=11
+  [Char] 0011202a-2233-4455-6677-8899dfdedddc  handle=12  props=write-without-response  (Unknown)
+  [Char] 0011203a-2233-4455-6677-8899dfdedddc  handle=14  props=notify  (Unknown)
+    [Desc] 00002902-0000-1000-8000-00805f9b34fb  handle=16
+  [Char] 0011204a-2233-4455-6677-8899dfdedddc  handle=17  props=notify,write-without-response  (Unknown)
+    [Desc] 00002902-0000-1000-8000-00805f9b34fb  handle=19
+  [Char] 0011206a-2233-4455-6677-8899dfdedddc  handle=20  props=write-without-response  (Unknown)
+
+# Подписка на notify на 10 с (можно понажимать кнопку на диктофоне)
