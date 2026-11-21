@@ -5,3 +5,6 @@ __pycache__/
 decompiled/
 captures/scan.txt
 captures/dump_log.txt
+# личные записи с диктофона
+captures/ops/
+*.wav
