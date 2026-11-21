@@ -8,3 +8,8 @@ captures/dump_log.txt
 # личные записи с диктофона
 captures/ops/
 *.wav
+models/
+.venv-py39/
+.env
+meetings/
+captures/wav/

@@ -1,2 +1,8 @@
-bleak>=0.22
-av>=12
+# Python 3.12 (uv python install 3.12)
+bleak>=0.22          # BLE-разведка диктофона
+av>=12               # декодер Opus (.ops → WAV)
+numpy
+mlx-whisper          # расшифровка (Apple Silicon)
+sherpa-onnx          # деление по спикерам
+mlx-lm               # локальный Qwen для протокола
+reportlab            # PDF
